@@ -5,6 +5,7 @@ Data Scientist • AI Enthusiast • Web Developer • Tech Educator
 Passionate about Artificial Intelligence, Data Science and Web Development.
 I enjoy building intelligent systems, teaching technology, and creating impactful digital solutions.
 
+---
 
 ## 🚀 About Me
 
@@ -15,6 +16,8 @@ I enjoy building intelligent systems, teaching technology, and creating impactfu
 - 📚 Future AI & Robotics Professor
 - ⚽ Former football captain and coach
 
+---
+
   ## 🔬 Current Interests
 
 - Machine Learning
@@ -24,6 +27,8 @@ I enjoy building intelligent systems, teaching technology, and creating impactfu
 - AI Education
 - Robotics
 - Web Applications
+
+  ---
 
 ## 📌 Projects
 
@@ -82,6 +87,7 @@ React • Node.js • WordPress
 ### Tools
 Git • GitHub • VS Code • CapCut • Canva
 
+---
 
 ## 📊 GitHub Stats
 
@@ -89,6 +95,7 @@ Git • GitHub • VS Code • CapCut • Canva
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudigerroger&layout=compact)
 
+---
 
 ## 📫 Contact
 
