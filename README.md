@@ -1,5 +1,7 @@
 # Hi, I'm Roger Nouhoeflin 👋
 
+---
+
 Data Scientist • AI Enthusiast • Web Developer • Tech Educator
 
 Passionate about Artificial Intelligence, Data Science and Web Development.
