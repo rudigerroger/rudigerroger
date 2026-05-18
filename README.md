@@ -15,7 +15,6 @@ I enjoy building intelligent systems, teaching technology, and creating impactfu
 - 📚 Future AI & Robotics Professor
 - ⚽ Former football captain and coach
 
-
   ## 🔬 Current Interests
 
 - Machine Learning
